@@ -4,15 +4,11 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+Joseph Becher is a 2023 graduate of Eastern Kentucky University's Broadcasting and Electronic Media program.
+He likes long walks on the beach and oatmeal creampies. 
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+Throughout his Junior and Senior year, he worked as a video PA for the University's Communications and Brand Management department. 
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+In the summer following graduation, he worked fulltime as a videographer in rural Maine. 
 
 
-[jekyll-organization]: https://github.com/jekyll
