@@ -11,4 +11,3 @@ Throughout his Junior and Senior year, he worked as a video PA for the Universit
 
 In the summer following graduation, he worked fulltime as a videographer in rural Maine. 
 
-
