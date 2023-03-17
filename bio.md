@@ -1,7 +1,7 @@
 ---
 layout: page
-title: About
-permalink: /about/
+title: Bio
+permalink: /bio/
 ---
 
 Joseph Becher is a 2023 graduate of Eastern Kentucky University's Broadcasting and Electronic Media program.
