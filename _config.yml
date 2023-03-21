@@ -15,8 +15,8 @@
 # in the templates via {{ site.myvariable }}.
 title: Joseph Becher
 email: joseph6241@gmail.com
-description: >- # this means to ignore newlines until "baseurl:"
-  Online portfolio for Joseph Becher
+description: | 
+    Questions? Get in touch!
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 linkedin_username: joseph-becher-003408205
