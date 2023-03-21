@@ -13,7 +13,7 @@ Promotional video for a University Study Abroad event. I was one of four people 
 <br>
 <br>
 
-Short film that I helped produce locally. I helped organize the pre-production, handled technical aspects of production, and then completed the post-production, all according to the directors discretion. 
+Short film that I produced locally. I helped organize the pre-production, handled technical aspects of production, and then completed the post-production, all according to the directors discretion. 
 
 <div class="youtube-wrapper">
     <iframe width="560" height="315" src="https://www.youtube.com/embed/SNYie95byWQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
