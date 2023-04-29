@@ -13,7 +13,7 @@ A short script written for class. The assignment had strict guidelines for the s
 <br>
 <br>
 
-The first section of a script I'm writing in my freetime. This script is not bound by any rubric, however my goal is to keep it within the realm of what is possible for a small production to create. 
+The first section of a script I'm writing in my freetime. This script beholden to any rubric, however my goal is to keep it within the realm of what is possible for a small local production. 
 
 <div class = "pdf-wrapper">
     <iframe src="https://drive.google.com/file/d/1l44Q-GSrqYVMNrFMyACfN9XXLrpbUp3a/preview" width="640" height="480" allow="autoplay"></iframe>
